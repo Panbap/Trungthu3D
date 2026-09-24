@@ -43,6 +43,21 @@
         "./assets/sp/9.jpg",
         "./assets/sp/10.jpg"
       ]
+    },
+    "nguoithuong": {
+      "name": "Gửi người thương",
+      "tag": "Trung thu an lành",
+      "music": "./assets/bongtrang.mp3",
+      "messages": [
+        "Chúc người thương và gia đình một mùa Trung Thu đoàn viên, tràn ngập niềm vui và hạnh phúc!",
+        "Cầu chúc cho mọi nguyện ước của người thương đêm nay sẽ trở thành hiện thực.",
+        "Trăng tròn ấm áp, chúc tình bạn và tình yêu của chúng ta mãi bền chặt."
+      ],
+      "images": [
+        "./assets/1.jpg",
+        "./assets/2.jpg",
+        "./assets/3.jpg"
+      ]
     }
   }
 }
