@@ -58,6 +58,20 @@
         "./assets/2.jpg",
         "./assets/3.jpg"
       ]
+    },
+    "baotram": {
+      "name": "Gửi Bảo Trân",
+      "tag": "Trung thu an lành",
+      "music": "./assets/bongtrang.mp3",
+      "messages": [
+        " 🏮 Chúc Bảo Trân trung thu vui vẻ ",
+        " 🏮 mong đứa trẻ ấy sẽ luôn nở nụ cười nhé và hạnh phúc nhé",
+        " 🏮 chúc bạn và gia đình có một mùa trung thu vv",
+        " 🏮 qua bao năm đi trăng nửa hy vọng nụ cười vẫn ở đó"
+      ],
+      "images": [
+        "./assets/4.jpg"
+      ]
     }
   }
 }
