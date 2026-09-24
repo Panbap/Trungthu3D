@@ -1,0 +1,33 @@
+{
+  "users": {
+    "123": {
+      "name": "Gửi cậu",
+      "tag": "Trung thu an lành",
+      "music": "./assets/1.mp3",
+      "messages": [
+        "Chúc cậu và gia đình một mùa Trung Thu đoàn viên, tràn ngập niềm vui và hạnh phúc!",
+        "Cầu chúc cho mọi nguyện ước của cậu đêm nay sẽ trở thành hiện thực.",
+        "Trăng tròn ấm áp, chúc tình bạn và tình yêu của chúng ta mãi bền chặt."
+      ],
+      "images": [
+        "./assets/1.jpg",
+        "./assets/2.jpg",
+        "./assets/3.jpg"
+      ]
+    },
+    "456": {
+      "name": "Hoàng Nam",
+      "tag": "Trung thu an lành",
+      "music": "./assets/1.mp3",
+      "messages": [
+        "Chúc Hoàng Nam gặt hái được nhiều thành công vượt bậc!",
+        "Hãy luôn giữ vững niềm tin và năng lượng tích cực nhé.",
+        "Chúc bạn một năm mới an khang, thịnh vượng và vạn sự như ý!"
+      ],
+      "images": [
+        "https://picsum.photos/id/1039/600/400",
+        "https://picsum.photos/id/1050/600/400"
+      ]
+    }
+  }
+}
